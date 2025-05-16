@@ -36,6 +36,15 @@ Hello world
 [//]: # (</details>)
 [//]: # (</div>)
 
+
+<!-- Sol for 2 href links in 1 image with github flavored markdown ? -->
+[//]: # (        <map name="#workmap">)
+[//]: # (            <!-- 64x16 px -->)
+[//]: # (            <area shape="rect" coords="0,0,32,16" href="https://github.com/search?q=user%3Adiligent-man+language%3Acpp">)
+[//]: # (            <area shape="rect" coords="32,0,64,16" href="https://isocpp.org/get-started">)
+[//]: # (        </map>)
+[//]: # (        <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" usemap="#workmap">)
+
 <div>
 <details>
 <summary><h1>🛠️ My Favorite Tools</h1></summary>
@@ -43,12 +52,7 @@ Hello world
     Programming and Markup Languages
     </h3>
     <p>
-        <map name="#workmap">
-            <!-- 64x16 px -->
-            <area shape="rect" coords="0,0,32,16" href="https://github.com/search?q=user%3Adiligent-man+language%3Acpp">
-            <area shape="rect" coords="32,0,64,16" href="https://isocpp.org/get-started">
-        </map>
-        <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" usemap="#workmap">
+        <a href="https://github.com/search?q=user%3Adiligent-man+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" usemap="#workmap"></a>
         <a href="https://github.com/search?q=user%3Adiligent-man+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
         <a href="https://github.com/search?q=user%3Adiligent-man+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
         <a href="https://github.com/search?q=user%3Adiligent-man+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
