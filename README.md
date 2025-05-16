@@ -173,4 +173,4 @@
 
 <div align="center">
 <img src="./assets/marquee.svg" height="120" alt="Thanks for visiting me" width="100%"/>
-</div>>
+</div>
