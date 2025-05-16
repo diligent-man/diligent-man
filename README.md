@@ -18,9 +18,27 @@
 <div>
 <details>
 <summary><h1>💁🏼‍♂️ More about me</h1></summary>
-<p>
-Hello world
-</p>
+<ul>
+    <li>I’m currently looking for AI engineer job</li>
+    <li>I’m currently learning
+        <ul>
+            <li>Applied maths</li>
+            <li>Develop AI model with C++</li>
+            <li>Web development with Ruby on Rails 8.0.2</li>
+            <li>Photoshop, Premiere</li>
+        </ul>
+    </li>
+    <li>Ask me about
+        <ul>
+            <li>Linux</li>
+            <li>Latex</li>
+            <li>MLOps</li>
+            <li>Maths for ML</li>
+            <li>Computer Vision</li>
+        </ul>
+    </li>
+</ul>
+
 </details>
 </div>
 
@@ -154,5 +172,5 @@ Hello world
 <!-- Footer -->
 
 <div align="center">
-<img src="./assets/marquee2.svg" height="120" alt="Thanks for visiting me" width="100%"/>
+<img src="./assets/marquee.svg" height="120" alt="Thanks for visiting me" width="100%"/>
 </div>>
